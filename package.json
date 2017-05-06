@@ -1,0 +1,29 @@
+{
+  "name": "gulp-web-project-template",
+  "version": "1.0.0",
+  "description": "static web project template with gulp support",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XT42/gulp-web-project-template.git"
+  },
+  "keywords": [
+    "gulp",
+    "web",
+    "project",
+    "template"
+  ],
+  "author": "Antonio Caliano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XT42/gulp-web-project-template/issues"
+  },
+  "homepage": "https://github.com/XT42/gulp-web-project-template",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
